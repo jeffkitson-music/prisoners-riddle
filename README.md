@@ -10,8 +10,6 @@ Building the Prisoner's Riddle in Python. This project is based Veritasium's You
 ## :books: About
 This project simulates the famous [100 Prisoner's Problem](https://en.wikipedia.org/wiki/100_prisoners_problem) as proposed by Anna Gál and Peter Bro Miltersen. Using a looping strategy, the group's survival goes from virutally zero to about 31%. 
 
----
-
 ## 🧠 The Problem Setup
 * **100 prisoners** are numbered 1 to 100.
 * **100 boxes** are placed in a room, each containing a random number from 1 to 100 inside.
@@ -31,4 +29,3 @@ This project simulates the famous [100 Prisoner's Problem](https://en.wikipedia.
 2. Run it in Python
    ```python
    python prisoners_riddle.py --games <number of simulations>
-
